@@ -32,3 +32,13 @@ dody {
 .row-reverse{
      flex-direction: row-reverse;
 }
+
+.colunm {
+    flex-direction: column;
+}
+
+.colunm-reverse {
+    flex-direction: column-reverse;
+}
+
+
